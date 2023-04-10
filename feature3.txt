@@ -1,1 +1,4 @@
-chnages made by dev-1
+chnages made by dev-1 solved the issue
+
+
+dev-2 made some changes 
